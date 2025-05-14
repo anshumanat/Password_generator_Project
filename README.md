@@ -27,36 +27,36 @@ Password_generator_Project/
  
 git clone https://github.com/anshumanat/Password_generator_Project.git
 cd Password_generator_Project
-# Then open index.html in your browser:
-# Double-click index.html
-# or
-# Right-click → Open with → Your Browser
+Then open index.html in your browser:
+Double-click index.html
+or
+Right-click → Open with → Your Browser
 
-🎯 Usage
+##🎯 Usage
 1. Enter the desired password length in the input field.  
 2. Click the **Generate Password** button.  
 3. Your new password will appear in the text box below.  
 4. (Optional) Copy the password to your clipboard for easy use.
    
-🚧 Customization
+##🚧 Customization
 - **Adjust Length Constraints**: Update the minimum and maximum length checks in `script.js`.  
 - **Character Sets**: Modify the arrays for uppercase, lowercase, numbers, and symbols in `script.js`.  
 - **Styling**: Tweak `styles.css` to change colors, fonts, or layout.
   
-🤝 Contributing
-# 1. Fork the repository
-# 2. Create a new branch:
+##🤝 Contributing
+1. Fork the repository
+2. Create a new branch:
 git checkout -b feature/YourFeature
 
-# 3. Commit your changes:
+3. Commit your changes:
 git commit -m "Add some feature"
 
-# 4. Push to the branch:
+4. Push to the branch:
 git push origin feature/YourFeature
 
-# 5. Open a Pull Request to propose your changes.
+5. Open a Pull Request to propose your changes.
 
-📄 License
+##📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 *Built with ❤️ by Anshuman Tiwari*
