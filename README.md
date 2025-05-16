@@ -13,6 +13,15 @@ This project provides a user-friendly interface for generating secure passwords.
 - **CSS3**: Responsive styling and layout.
 - **JavaScript (ES6+)**: Logic for generating and displaying the password.
 
+  ![Screenshot 2025-05-15 213347](https://github.com/user-attachments/assets/c2e26d6b-1394-4aec-84da-eef9fa67b6b5)
+  
+  ![Screenshot 2025-05-15 213513](https://github.com/user-attachments/assets/dcb07039-f294-4634-9586-dc45962a40db)
+  
+  ![Screenshot 2025-05-15 213456](https://github.com/user-attachments/assets/60cbef63-2ed0-4afa-b25b-f1dc1b1456f2)
+ ![Screenshot 2025-05-15 213438](https://github.com/user-attachments/assets/cff00802-4b63-42d2-8cc9-095a51089515)
+
+
+
 ## 🗂️ Project Structure
 Password_generator_Project/
 ├── index.html # Main HTML file
