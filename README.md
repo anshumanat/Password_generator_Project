@@ -1,6 +1,6 @@
 # Password Generator Web App
   
-A simple and interactive web application that generates strong random passwords directly in your browser. 
+A simple and interactive web application that generates strong random passwords directly in your browser.  
 
 ## 🔗 Live Demo
 [password-generator-project-pi.vercel.app](https://password-generator-project-pi.vercel.app/)
